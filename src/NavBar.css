@@ -1,0 +1,13 @@
+.Navbar {
+    text-align: center;
+    background-color: coral;
+}
+
+.Navbar a {
+    margin: 2rem;
+    color:rgba(255, 255, 255, 0.729)
+}
+
+.Navbar a.active{
+    color:white
+}
